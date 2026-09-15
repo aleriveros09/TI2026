@@ -1,4 +1,4 @@
-# Teoría de la Información — Grupo 10
+# Teoría de la Información — Grupo 
 
 Licenciatura en Ciencias de la Computación, 2026.
 
