@@ -16,8 +16,7 @@ Licenciatura en Ciencias de la Computación, 2026.
 | 8 | [`ejercicio_8/`](ejercicio_8/) | Capacidad de canal por búsqueda exhaustiva | stdlib, tkinter |
 | 9 | [`ejercicio_9/`](ejercicio_9/) | Canal Binario Simétrico por sockets TCP | stdlib |
 
-Cada carpeta incluye su código, un `README.md` con instrucciones de uso y las respuestas teóricas del enunciado, y (donde aplica) los datos/resultados de una corrida real en `salida/`.
-
+Cada carpeta incluye su código, un `README.md` con instrucciones de uso y las respuestas teóricas del enunciado.
 ## Requisitos
 
 ```
